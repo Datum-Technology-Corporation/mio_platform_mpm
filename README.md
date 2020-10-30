@@ -1,2 +1,2 @@
 # mio_platform_mpm
-Moore.io Platform - mio Package Manager (mpm)
+Moore.io Platform - Package Manager (mpm)
